@@ -1,4 +1,5 @@
-Comments from @tevador
+Comments from @tevador on version 1 of the report. The final report uploaded here is version 3,
+and already incorporates a number of the changes noted here.
 
 ## 1. Single AES rounds used in AesGenerator
 
